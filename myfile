@@ -1,3 +1,7 @@
 first line from sginstance
 second line from sginstance
+<<<<<<< HEAD
 first line from auinstance
+=======
+Third line from sginstance
+>>>>>>> 3ce755668cac6c1e15f51010160c4aa33cda6fb7
