@@ -1,0 +1,3 @@
+m testing merging
+update from master
+update from b2
